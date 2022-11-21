@@ -1,0 +1,2 @@
+# Piano fluente-responsivo
+ Página inicial de demonstração      Resumo Landing Page captura básica de leads criada para suprir a necessidade de um cliente, feita através de Html, Css e Javascript.  Motivação Me desenvolva com desafios vislumbrados por terceiros aplicando as tecnologias brevemente estudadas.  Construído com Html5 CSS3 JavaScript/ScrollReveal Recursos 1. Design Responsivo.  2. ScrollReveal.  3. Role para cima.
